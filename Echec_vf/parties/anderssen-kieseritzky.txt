@@ -1,0 +1,23 @@
+1. e2-e4 e7-e5
+2. f2-f4 e5xf4
+3. Ff1-c4 Dd8-h4
+4. Re1-f1 b7-b5
+5. Fc4xb5 Cg8-f6
+6. Cg1-f3 Dh4-h6
+7. d2-d3 Cf6-h5
+8. Cf3-h4 Dh6-g5
+9. Ch4-f5 c7-c6
+10. g2-g4 Ch5-f6
+11. Ta1-g1 c6xb5
+12. h2-h4 Dg5-g6
+13. h4-h5 Dg6-g5
+14. Dd1-f3 Cf6-g8
+15. Fc1xf4 Dg5-f6
+16. Cb1-c3 Ff8-c5
+17. Cc3-d5 Df6xb2
+18. Ff4-d6 Fc5xg1
+19. e4-e5 Db2xa1
+20. Re1-e2 Cb8-a6
+21. Cf5xg7 Re8-d8
+22. Df3-f6 Cg8xf6
+23. Fd6-e7
